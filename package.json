@@ -1,5 +1,5 @@
 {
-    "name": "hessian-proxy",
+    "name": "proxy-hessian",
     "version": "0.0.5",
     "description": "hessian proxy to make rpc calls for javascript",
     "main": "./lib/index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:villadora/node-hessian.git"
+        "url": "git@github.com:gunsha/node-hessian.git"
     },
     "keywords": [
         "hessian",
